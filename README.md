@@ -1,3 +1,8 @@
+## How to run
+
+Every 60 seconds using Cloudwatch Cron.
+
+
 ## Deploying to Lambda
 
 Inside the main folder, run:
